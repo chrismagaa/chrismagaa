@@ -1,17 +1,11 @@
 <h1 align="center">Hi 👋, I'm Christian Magaña</h1>
 <h3 align="center">A passionate Mobile developer from México</h3>
 
-- 🔭 I’m currently working on **various projects**
-
-- 🌱 I’m currently learning **Jetpack Compose and updating my knowledge with courses.**
-
 - 👨‍💻 All of my projects are available at [https://christian-portafolio.web.app/](https://christian-portafolio.web.app/)
 
 - 💬 Ask me about **Android, Kotlin, Flutter**
 
 - 📫 How to reach me **christianmagaa@gmail.com**
-
-- ⚡ Fun fact **I love play soccer**
 
 <p align="left">
 </p>
